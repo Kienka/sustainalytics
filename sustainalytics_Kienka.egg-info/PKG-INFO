@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: sustainalytics-Kienka
+Version: 0.0.1
+Summary: This is a package that helps clients access and QA sustainalytics data
+Home-page: https://github.com/Kienka/sustainalytics
+Author: Kienka Cromwell Kio
+Author-email: kienka.kio@sustainalytics.com
+License: UNKNOWN
+Description: ### API and QA Package of Sustainalytics.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
